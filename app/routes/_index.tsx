@@ -18,7 +18,7 @@ export default function Index() {
             href="https://remix.run/tutorials/blog"
             rel="noreferrer"
           >
-            this is a preview
+            this is a previews
           </a>
         </li>
         <li>
